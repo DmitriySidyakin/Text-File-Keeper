@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFileKeeper", "RussianPasswordKeeper\TextFileKeeper.csproj", "{337143EA-4071-4E50-9ED6-5E0EB4942301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cryptographer", "cryptographer\cryptographer.csproj", "{214C9248-92E7-4DE5-80F0-44ABD8E9A904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337143EA-4071-4E50-9ED6-5E0EB4942301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337143EA-4071-4E50-9ED6-5E0EB4942301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337143EA-4071-4E50-9ED6-5E0EB4942301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337143EA-4071-4E50-9ED6-5E0EB4942301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214C9248-92E7-4DE5-80F0-44ABD8E9A904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214C9248-92E7-4DE5-80F0-44ABD8E9A904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214C9248-92E7-4DE5-80F0-44ABD8E9A904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214C9248-92E7-4DE5-80F0-44ABD8E9A904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F710AFD0-2DBB-4A00-9EB0-A4BB150B5CBF}
+	EndGlobalSection
+EndGlobal
